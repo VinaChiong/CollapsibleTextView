@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CollapsibleTextView</string>
+    <string name="long_text">CollapsibleTextView,CollapsibleTextViewCollapsibleTextView;CollapsibleTextView;CollapsibleTextView;\nCollapsibleTextView\nCollapsibleTextView</string>
+</resources>
